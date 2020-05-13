@@ -40,7 +40,7 @@ I am a Ph.D. candidate at [NanoEnergy & Thermophysics lab](https://netlab.umassc
         <strong>{{ pub.title }}</strong>
         <span class="authors">{% for author in pub.authors %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}</span>.
         <i>{{ pub.venue }}, {{ pub.vol }}, {{ pub.year }}, {{ pub.pages}}</i>.
-        {% for award in pub.awards %}<br/><span class="award"><i class="fas fa-{% if award == "Best Paper Award" %}trophy{% else %}award{% endif %}" aria-hidden="true"></i> {{ award }}</span>{% endfor %}
+        {% for award in pub.awards %}<br/><span class="award"><i class="fas fa-{% if award == "Press Release" %}trophy{% else %}award{% endif %}" aria-hidden="true"></i> {{ award }}</span>{% endfor %}
       </a>
     {% endif %}
   {% endfor %}
