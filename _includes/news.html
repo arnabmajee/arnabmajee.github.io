@@ -1,0 +1,9 @@
+<li>
+  {{ news.message | markdownify | remove: '<p>' | remove: '</p>' }}
+  <time datetime="{{ news.date }}">{{ news.date | date: "%b %Y" }}</time>
+  <div class="links">
+    {% if news.report %}
+    <a href="{{ news.report }}"><i class="far fa-file-pdf"></i> Link</a>
+    {% endif %}
+  </div>
+</li>

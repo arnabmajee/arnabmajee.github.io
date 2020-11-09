@@ -1,0 +1,355 @@
+- id: MajeeJCEl20
+  title: <a href="https://link.springer.com/article/10.1007/s10825-020-01579-2">Electrical and Eletrothermal Properties of Few-Layer 2D Devices.</a>
+  year: 2020
+  authors:
+    - Arnab K. Majee
+    - Cameron J. Foss
+    - Zlatan Aksamija
+#  awards:
+#    - Honorable Mention
+  venue: Journal of Computational Electronics
+  venue_tags:
+    - J. Comput. Electron.
+#  venue_location: Irvine, California, United States
+#  venue_url: https://www.akbc.ws/2020/
+#  doi: 10.1038/s41598-019-43664-y
+#  short_doi: 10/cs68
+#  pdf: /papers/2019-bittersweet.pdf
+#  recording: https://vimeo.com/308980888
+  link: https://link.springer.com/article/10.1007/s10825-020-01579-2
+  pages: 1572-8137
+#  blog: 
+#  slides: 
+#  osf: 
+  highlight: false
+  tags:
+    - Electro-thermal
+    - 2D Devices
+    - Nanophononics
+  type:
+    - Journal
+
+- id: MajeeApplMatInter20
+  title: <a href="https://pubs.acs.org/doi/full/10.1021/acsami.9b22039">Current Rerouting Improves Heat Removal in Few-Layer WSe<sub>2</sub> Devices.</a>
+  year: 2020
+  authors:
+    - Arnab K. Majee
+    - Zahra Hemmat
+    - Cameron J. Foss
+    - Amin Salehi-Khojin
+    - Zlatan Aksamija
+#  awards:
+#    - Honorable Mention
+  venue: ACS Applied Materials and Interfaces
+  venue_tags:
+    - ACS Appl. Mater. Interfaces
+#  venue_location: Irvine, California, United States
+#  venue_url: https://www.akbc.ws/2020/
+#  doi: 10.1038/s41598-019-43664-y
+#  short_doi: 10/cs68
+#  pdf: /papers/2019-bittersweet.pdf
+#  recording: https://vimeo.com/308980888
+  link: https://pubs.acs.org/doi/full/10.1021/acsami.9b22039
+  vol: 12
+  pages: 14323-14330
+#  blog: 
+#  slides: 
+#  osf: 
+  highlight: true
+  tags:
+    - Electro-thermal
+    - 2D Devices
+    - Nanophononics
+  type:
+    - Journal
+
+- id: MajeeADP19
+  title: <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/andp.201800510">Electronic Transport and Thermopower in 2D and 3D Heterostructures—A Theory Perspective.</a>
+  year: 2019
+  authors:
+    - Arnab K. Majee
+    - Adithya Kommini
+    - Zlatan Aksamija
+  awards:
+    - Top downloaded paper
+  venue: Annalen der Physik
+  venue_tags:
+    - Ann. Phys.
+  vol: 531
+  pages: 1800510
+#  venue_location: Irvine, California, United States
+#  venue_url: https://www.akbc.ws/2020/
+#  doi: 10.1038/s41598-019-43664-y
+#  short_doi: 10/cs68
+#  pdf: /papers/2019-bittersweet.pdf
+#  recording: https://vimeo.com/308980888
+  link: https://onlinelibrary.wiley.com/doi/pdf/10.1002/andp.201800510
+#  tweet: 
+#  blog: 
+#  slides: 
+#  osf: 
+  highlight: false
+  tags:
+    - Electronic transport
+    - Thermoelectric
+  type:
+    - Journal
+
+- id: MajeePRB18
+  title: <a href="https://journals.aps.org/prb/pdf/10.1103/PhysRevB.98.024303">Dynamical thermal conductivity of suspended graphene ribbons in the hydrodynamic regime.</a>
+  year: 2018
+  authors:
+    - Arnab K. Majee
+    - Zlatan Aksamija
+#  awards:
+#    - Honorable Mention
+  venue: Physical Review B
+  venue_tags:
+    - Phys. Rev. B
+  vol: 98
+  pages: 024303
+#  venue_location: Irvine, California, United States
+#  venue_url: https://www.akbc.ws/2020/
+#  doi: 10.1038/s41598-019-43664-y
+#  short_doi: 10/cs68
+#  pdf: /papers/2019-bittersweet.pdf
+#  recording: https://vimeo.com/308980888
+  link: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.98.024303
+#  tweet: 
+#  blog: 
+#  slides: 
+#  osf: 
+  highlight: true
+  tags:
+    - Nanophononics
+  type:
+    - Journal
+
+- id: BehranginiaApplMatInter18
+  title: <a href="https://pubs.acs.org/doi/full/10.1021/acsami.8b04724">Power Dissipation of WSe<sub>2</sub> Field-Effect Transistors Probed by Low-Frequency Raman Thermometry.</a>
+  year: 2018
+  authors:
+    - Amirhossein Behranginia
+    - Zahra Hemmat
+    - Arnab K. Majee
+    - Cameron J. Foss
+    - Poya Yasaei
+    - Zlatan Aksamija
+    - Amin Salehi-Khojin
+#  awards:
+#    - Honorable Mention
+  venue: ACS Applied Materials and Interfaces
+  venue_tags:
+    - ACS Appl. Mater. Interfaces
+  vol: 10
+  pages: 24892
+#  venue_location: Irvine, California, United States
+#  venue_url: https://www.akbc.ws/2020/
+#  doi: 10.1038/s41598-019-43664-y
+#  short_doi: 10/cs68
+#  pdf: /papers/2019-bittersweet.pdf
+#  recording: https://vimeo.com/308980888
+  link: https://pubs.acs.org/doi/full/10.1021/acsami.8b04724
+#  tweet: 
+#  blog: 
+#  slides: 
+#  osf: 
+  highlight: false
+  tags:
+    - 2D Devices
+    - Nanophononics
+    - Electro-thermal
+  type:
+    - Journal
+
+- id: MajeeSciRep17
+  title: <a href="https://www.nature.com/articles/s41598-017-16744-0">Impact of mismatch angle on electronic transport across grain boundaries and interfaces in 2D materials.</a>
+  year: 2017
+  authors:
+    - Arnab K. Majee
+    - Cameron J. Foss
+    - Zlatan Aksamija
+#  awards:
+#    - Honorable Mention
+  venue: Scientific Reports
+  venue_tags:
+    - Sci. Rep.
+  vol: 7
+  pages: 16597
+#  venue_location: Irvine, California, United States
+#  venue_url: https://www.akbc.ws/2020/
+#  doi: 10.1038/s41598-019-43664-y
+#  short_doi: 10/cs68
+#  pdf: /papers/2019-bittersweet.pdf
+#  recording: https://vimeo.com/308980888
+  link: https://www.nature.com/articles/s41598-017-16744-0
+#  tweet: 
+#  blog: 
+#  slides: 
+#  osf: 
+  highlight: false
+  tags:
+    - Electronic transport
+    - Interfaces/Grain Boundaries
+#    - Machine Learning
+  type:
+    - Journal
+
+- id: BehranginiaApplMatInter18
+  title: <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.201700334">Interfacial Thermal Transport in Monolayer MoS<sub>2</sub>‐ and Graphene‐Based Devices.</a>
+  year: 2017
+  authors:
+    - Poya Yasaei
+    - Cameron J. Foss
+    - Klas Karis
+    - Amirhossein Behranginia
+    - Ahmed I El‐Ghandour
+    - Arman Fathizadeh
+    - Javier Olivares
+    - Arnab K. Majee
+    - Craig D Foster
+    - Fatemeh Khalili‐Araghi
+    - Zlatan Aksamija
+    - Amin Salehi-Khojin
+#  awards:
+#    - Honorable Mention
+  venue: Advanced Materials and Interfaces
+  venue_tags:
+    - Adv. Mater. Interfaces
+  vol: 4
+  pages: 1700334
+#  venue_location: Irvine, California, United States
+#  venue_url: https://www.akbc.ws/2020/
+#  doi: 10.1038/s41598-019-43664-y
+#  short_doi: 10/cs68
+#  pdf: /papers/2019-bittersweet.pdf
+#  recording: https://vimeo.com/308980888
+  link: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.201700334
+#  tweet: 
+#  blog: 
+#  slides: 
+#  osf: 
+  highlight: false
+  tags:
+    - 2D Devices
+    - Nanophononics
+#    - Machine Learning
+  type:
+    - Journal
+
+- id: BerhanginiaSmall17
+  title: <a href="https://onlinelibrary.wiley.com/doi/pdf/10.1002/smll.201604301">Direct Growth of High Mobility and Low‐Noise Lateral MoS2–Graphene Heterostructure Electronics.</a>
+  year: 2017
+  authors:
+    - Amirhossein Behranginia
+    - Poya Yasaei  
+    - Arnab K. Majee
+    - Vinod K Sangwan
+    - Fei Long
+    - Cameron J. Foss
+    - Tara Foroozan
+    - Shadi Fuladi
+    - Mohammad Reza Hantehzadeh
+    - Reza Shahbazian‐Yassar
+    - Mark C Hersam
+    - Zlatan Aksamija
+    - Amin Salehi‐Khojin
+#  awards:
+#    - Honorable Mention
+  venue: Small
+  venue_tags: 
+    - Small
+  vol: 13
+  pages: 160430
+#  venue_location: Irvine, California, United States
+#  venue_url: https://www.akbc.ws/2020/
+#  doi: 10.1038/s41598-019-43664-y
+#  short_doi: 10/cs68
+#  pdf: /papers/2019-bittersweet.pdf
+#  recording: https://vimeo.com/308980888
+  link: https://onlinelibrary.wiley.com/doi/pdf/10.1002/smll.201604301
+#  tweet: 
+#  blog: 
+#  slides: 
+#  osf: 
+  highlight: false
+  tags:
+    - Electronic transport
+    - Interfaces/Grain Boundaries
+#    - Machine Learning
+  type:
+    - Journal
+
+- id: MajeePRB16
+  title: <a href="https://journals.aps.org/prb/pdf/10.1103/PhysRevB.93.235423">Length divergence of the lattice thermal conductivity in suspended graphene nanoribbons.</a>
+  year: 2016
+  authors:
+    - Arnab K. Majee
+    - Zlatan Aksamija
+#  awards:
+#    - Honorable Mention
+  venue: Physical Review B
+  venue_tags:
+    - Phys. Rev. B
+  vol: 93
+  pages: 235423
+#  venue_location: Irvine, California, United States
+#  venue_url: https://www.akbc.ws/2020/
+#  doi: 10.1038/s41598-019-43664-y
+#  short_doi: 10/cs68
+#  pdf: /papers/2019-bittersweet.pdf
+#  recording: https://vimeo.com/308980888
+  link: https://journals.aps.org/prb/pdf/10.1103/PhysRevB.93.235423
+#  tweet: 
+#  blog: 
+#  slides: 
+#  osf: 
+  highlight: false
+  tags:
+    - Nanophononics
+#    - Machine Learning
+  type:
+    - Journal
+
+- id: YasaeiNanoLett15
+  title: <a href="https://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.5b01100">Bimodal phonon scattering in graphene grain boundaries.</a>
+  year: 2015
+  authors:
+    - Poya Yasaei
+    - Arnab K. Majee
+    - Arman Fathizadeh
+    - Reza Hantehzadeh
+    - Ahmed El-Ghandour
+    - David Estrada
+    - Craig Foster
+    - Zlatan Aksamija
+    - Fatemeh Khalili-Araghi
+    - Amin Salehi-Khojin
+  awards:
+    - Press Release    
+#awards:
+  # - <a href="https://ece.umass.edu/news/aksamija-collaborates-nano-letters-article">Press Release</a>
+  venue: Nano Letters
+  venue_tags:
+    - Nano Lett.
+  vol: 15
+  pages: 4532-4540
+#  venue_location: Irvine, California, United States
+#  venue_url: https://www.akbc.ws/2020/
+#  doi: 10.1038/s41598-019-43664-y
+#  short_doi: 10/cs68
+#  pdf: /papers/2019-bittersweet.pdf
+#  recording: https://vimeo.com/308980888
+  link: https://pubs.acs.org/doi/pdf/10.1021/acs.nanolett.5b01100
+#  tweet: 
+#  blog: 
+#  slides: 
+#  osf: 
+  highlight: true
+  tags:
+    - Interfaces/Grain Boundaries
+    - Nanophononics
+#    - Machine Learning
+  type:
+    - Journal
+
