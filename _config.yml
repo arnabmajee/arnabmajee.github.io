@@ -1,8 +1,8 @@
 # Site settings
 title: Arnab K. Majee
-email: amajee@engin.umass.edu
+email: amajee@unm.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Ph.D. Candidate in Electrical & Computer Engineering at UMass Amherst. 
+  Postdoctoral Fellow at The University of New Mexico. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://arnabmajee.github.io" # the base hostname & protocol for your site
 production_url: "https://arnabmajee.github.io"
