@@ -9,7 +9,7 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I am a bla bla Ph.D. candidate at [NanoEnergy & Thermophysics lab](https://netlab.umasscreate.net/) in the Department of Electrical and Computer Engineering, University of Massachusetts Amherst. My Ph.D. advisor is [Prof. Zlatan Aksamija](https://blogs.umass.edu/zlatana/about/). 
+I am a bla bla bhodro way Ph.D. candidate at [NanoEnergy & Thermophysics lab](https://netlab.umasscreate.net/) in the Department of Electrical and Computer Engineering, University of Massachusetts Amherst. My Ph.D. advisor is [Prof. Zlatan Aksamija](https://blogs.umass.edu/zlatana/about/). 
 
 <div>During my stay at UMass Amherst, I have developed scientific computational models based on first-principles Density Functional Theory calculations for understanding charge and heat flow in two-dimensional (2D) van der Waals (vdW) semiconductors, including graphene, transition metal dichalcogenides and beyond-graphene materials, and in their heterostructures. Beyond developing electro-thermal simulations for 2D nanoelectronic devices, my research interests also encompass developing data-accelerated multiphysics device models to improve our understanding of complex material systems.</div>
 
