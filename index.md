@@ -9,7 +9,9 @@ class: home
 <div class="columns" markdown="1">
 
 <div class="intro" markdown="1">
-I am a bla bla bhodro way Ph.D. candidate at [NanoEnergy & Thermophysics lab](https://netlab.umasscreate.net/) in the Department of Electrical and Computer Engineering, University of Massachusetts Amherst. My Ph.D. advisor is [Prof. Zlatan Aksamija](https://blogs.umass.edu/zlatana/about/). 
+I am a Postdoctoral Fellow at The University of New Mexico, Albuquerque. My current advisors are Prof. Francesca Cavallo at UNM and Dr. Danhong Huang at Sandia National Labs. Prior to this, I completed my Ph.D. in Electrical and Computer Engineering from University of Massachusetts Amherst[NanoEnergy & Thermophysics lab](https://netlab.umasscreate.net/) under the supervision of [Prof. Zlatan Aksamija](https://blogs.umass.edu/zlatana/about/). 
+
+<div>Currently, I am working on understanding the electrical and thermal transport properties in a CVD-grown graphene on technologically relevant substrates, such as Si and Ge. Also, I am working with Dr. Huang to develop computational models based on first-principles to capture non-thermal phonon dynamics interacting with driven conduction electrons.</div>
 
 <div>During my stay at UMass Amherst, I have developed scientific computational models based on first-principles Density Functional Theory calculations for understanding charge and heat flow in two-dimensional (2D) van der Waals (vdW) semiconductors, including graphene, transition metal dichalcogenides and beyond-graphene materials, and in their heterostructures. Beyond developing electro-thermal simulations for 2D nanoelectronic devices, my research interests also encompass developing data-accelerated multiphysics device models to improve our understanding of complex material systems.</div>
 
