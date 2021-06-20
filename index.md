@@ -10,6 +10,7 @@ class: home
 
 <div class="intro" markdown="1">
 I am a Postdoctoral Fellow at The University of New Mexico, Albuquerque. My current advisors are Prof. Francesca Cavallo at UNM and Dr. Danhong Huang at Sandia National Labs. Prior to this, I completed my Ph.D. in Electrical and Computer Engineering from University of Massachusetts Amherst[NanoEnergy & Thermophysics lab](https://netlab.umasscreate.net/) under the supervision of [Prof. Zlatan Aksamija](https://blogs.umass.edu/zlatana/about/). 
+I am a Postdoctoral Fellow at The University of New Mexico, Albuquerque. My current advisors are Prof. Francesca Cavallo at UNM and Dr. Danhong Huang at Sandia National Labs. Prior to this, I completed my Ph.D. in Electrical and Computer Engineering from University of Massachusetts Amherst  [NanoEnergy & Thermophysics lab](https://netlab.umasscreate.net/) under the supervision of [Prof. Zlatan Aksamija](https://blogs.umass.edu/zlatana/about/). 
 
 <div>Currently, I am working on understanding the electrical and thermal transport properties in a CVD-grown graphene on technologically relevant substrates, such as Si and Ge. Also, I am working with Dr. Huang to develop computational models based on first-principles to capture non-thermal phonon dynamics interacting with driven conduction electrons.</div>
 
