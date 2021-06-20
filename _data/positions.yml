@@ -1,5 +1,12 @@
+- title: Postdoctoral Fellow
+  years: Mar 2021 - present
+  company: UNM and Sandia Labs
+#  group: HCI - VIS Lab
+  location: Albuquerque, NM
+  mentors:
+    - Prof. Francesca Cavallo and Dr. Danhong Huang
 - title: Graduate Research Assistant
-  years: Fall 2014 - 
+  years: Fall 2014 - Fall 2020
   company: <a href="https://netlab.umasscreate.net/">NET (NanoEnergy & Thermophysics) lab</a>
 #  group: HCI - VIS Lab
   location: UMass Amherst, MA
@@ -12,8 +19,8 @@
 #    - Human Computer Interaction
 #    - Visualization
 
-- title: Teaching Assistant (Modern Physics and Materials <a href="https://ece.umass.edu/sites/default/files/ece/ECE%20244.pdf">(ECE 244)</a>)
-  years: Spring 2020
+- title: Graduate Teaching Assistant
+  years: Fall 2014 - Fall 2020
   company: ECE
 #  group: HCI - VIS Lab
   location: UMass Amherst, MA
@@ -26,11 +33,11 @@
 #    - Human Computer Interaction
 #    - Visualization
 
-- title: Teaching Assistant (Modern Physics and Materials <a href="https://ece.umass.edu/sites/default/files/ece/ECE%20244.pdf">(ECE 244)</a>)
-  years: Spring 2019
-  company: ECE
+#- title: Teaching Assistant (Modern Physics and Materials <a href="https://ece.umass.edu/sites/default/files/ece/ECE%20244.pdf">(ECE 244)</a>)
+#  years: Spring 2019
+#  company: ECE
 #  group: HCI - VIS Lab
-  location: UMass Amherst, MA
+#  location: UMass Amherst, MA
 #  mentors:
 #    - Prof. Narges Mahyar
 #  description: Worked on analysing civic text derived from of public town-hall meetings. Devised summarization and topic modelling schemes to aid civc leaders in making the overall decision making process more efficient. 
@@ -68,11 +75,11 @@
 #    - Human Computer Interaction
 #    - Visualization
 
-- title: Teaching Assistant (Semiconductor devices and materials <a href="https://ece.umass.edu/sites/default/files/ece/ECE344_Fall2019_Syllabus.pdf">(ECE 344)</a>)
-  years: Fall 2019
-  company: ECE
+#- title: Teaching Assistant (Semiconductor devices and materials <a href="https://ece.umass.edu/sites/default/files/ece/ECE344_Fall2019_Syllabus.pdf">(ECE 344)</a>)
+#  years: Fall 2019
+#  company: ECE
 #  group: HCI - VIS Lab
-  location: UMass Amherst, MA
+#  location: UMass Amherst, MA
 #  mentors:
 #    - Prof. Narges Mahyar
 #  description: Worked on analysing civic text derived from of public town-hall meetings. Devised summarization and topic modelling schemes to aid civc leaders in making the overall decision making process more efficient. 
@@ -82,11 +89,11 @@
 #    - Human Computer Interaction
 #    - Visualization
 
-- title: Teaching Assistant (Physics-I Mechanics <a href="https://ece.umass.edu/phys-181">(PHYS 181)</a>)
-  years: Fall 2018
-  company: Department of Physics
+#- title: Teaching Assistant (Physics-I Mechanics <a href="https://ece.umass.edu/phys-181">(PHYS 181)</a>)
+#  years: Fall 2018
+#  company: Department of Physics
 #  group: HCI - VIS Lab
-  location: UMass Amherst, MA
+#  location: UMass Amherst, MA
 #  mentors:
 #    - Prof. Narges Mahyar
 #  description: Worked on analysing civic text derived from of public town-hall meetings. Devised summarization and topic modelling schemes to aid civc leaders in making the overall decision making process more efficient. 
@@ -96,11 +103,11 @@
 #    - Human Computer Interaction
 #    - Visualization
 
-- title: Teaching Assistant (Semiconductor devices and materials <a href="https://ece.umass.edu/sites/default/files/ece/ECE344_Fall2019_Syllabus.pdf">(ECE 344)</a>)
-  years: Fall 2016
-  company: ECE
+#- title: Teaching Assistant (Semiconductor devices and materials <a href="https://ece.umass.edu/sites/default/files/ece/ECE344_Fall2019_Syllabus.pdf">(ECE 344)</a>)
+#  years: Fall 2016
+#  company: ECE
 #  group: HCI - VIS Lab
-  location: UMass Amherst, MA
+#  location: UMass Amherst, MA
 #  mentors:
 #    - Prof. Narges Mahyar
 #  description: Worked on analysing civic text derived from of public town-hall meetings. Devised summarization and topic modelling schemes to aid civc leaders in making the overall decision making process more efficient. 
@@ -110,11 +117,11 @@
 #    - Human Computer Interaction
 #    - Visualization
 
-- title: Teaching Assistant (Semiconductor devices and materials <a href="https://ece.umass.edu/sites/default/files/ece/ECE344_Fall2019_Syllabus.pdf">(ECE 344)</a>)
-  years: Fall 2014
-  company: ECE
+#- title: Teaching Assistant (Semiconductor devices and materials <a href="https://ece.umass.edu/sites/default/files/ece/ECE344_Fall2019_Syllabus.pdf">(ECE 344)</a>)
+#  years: Fall 2014
+#  company: ECE
 #  group: HCI - VIS Lab
-  location: UMass Amherst, MA
+#  location: UMass Amherst, MA
 #  mentors:
 #    - Prof. Narges Mahyar
 #  description: Worked on analysing civic text derived from of public town-hall meetings. Devised summarization and topic modelling schemes to aid civc leaders in making the overall decision making process more efficient. 
