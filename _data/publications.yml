@@ -1,3 +1,33 @@
+- id: MajeeNanoExpl21
+  title: <a href="https://iopscience.iop.org/article/10.1088/2632-959X/ac0597/pdf">Electronic Transport Across Extended Grain Boundaries in Graphene.</a>
+  year: 2021
+  authors:
+    - Arnab K. Majee
+    - Zlatan Aksamija
+        #  awards:
+#    - Honorable Mention
+  venue: Nano Express
+  venue_tags:
+    - Nano Exp.
+#  venue_location: Irvine, California, United States
+#  venue_url: https://www.akbc.ws/2020/
+#  doi: 10.1038/s41598-019-43664-y
+#  short_doi: 10/cs68
+#  pdf: /papers/2019-bittersweet.pdf
+#  recording: https://vimeo.com/308980888
+  link: https://iopscience.iop.org/article/10.1088/2632-959X/ac0597/pdf
+  pages: 1572-8137
+#  blog: 
+#  slides: 
+#  osf: 
+  highlight: false
+  tags:
+    - Grain boundaries
+    - Graphene
+    - Electronic Transport
+  type:
+    - Journal
+
 - id: MajeeJCEl20
   title: <a href="https://link.springer.com/article/10.1007/s10825-020-01579-2">Electrical and Eletrothermal Properties of Few-Layer 2D Devices.</a>
   year: 2020
